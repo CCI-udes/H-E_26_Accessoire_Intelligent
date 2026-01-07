@@ -25,15 +25,6 @@ Votre mission : repousser les limites du design embarqué en créant un objet qu
 
 ---
 
-### Répertoire "Template"
-Le répertoire "Template" contient tous les documents à remplir pour participer à la compétition. Vous y trouverez :
-- Formulaire d'idée (à remplir)
-- Formulaire d'inscription (à remplir)
-- Conditions et termes de l'inscription
-- TEMPLATE de PowerPoint
-- TEMPLATE pour la documentation
-
----
 
 ### Comment forker le dépôt
 
